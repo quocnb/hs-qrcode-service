@@ -12,6 +12,21 @@ files:
   - name: test/QRCodeApiTest.java
     visible: false
     learner_created: false
+  - name: src/qrcodeapi/RequestController.java
+    visible: true
+    learner_created: true
+  - name: src/qrcodeapi/AppConfig.java
+    visible: true
+    learner_created: true
+  - name: src/qrcodeapi/QrCodeGenerator.java
+    visible: true
+    learner_created: true
+  - name: src/qrcodeapi/QrCodeRequest.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/385/stages/2291/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 May 2024 07:51:45 UTC"
+record: 2
